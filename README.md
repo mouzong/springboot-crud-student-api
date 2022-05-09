@@ -1,5 +1,10 @@
 # Spring Boot Beginner class
-This is springboot beginner class where I teach you how to get started with building Rest API's with java 8+ and Spring
+This is a Spring Boot beginner class where I teach you how to get started with building Rest API's with java 8+ and Spring
+
+## Architecture
+
+
+![](images/architecture.png)
 
 ## Tech Stack
 > `Java 11` 
@@ -7,5 +12,15 @@ This is springboot beginner class where I teach you how to get started with buil
 >`Spring Data JPA`
 > `PostgreSQL`
 
-## Logic
-We are building a Student's CRUD Rest API. Emphasis is laid on the minimal architecture.
+## Summary
+
+This course teaches you how to how to build a complete CRUD rest api with Spring Boot from ground upand focuses on very important concepts used in real life software engineering projects. These include:
+
+- Spring Boot Backend API
+- Maven Build Tool
+- Database connection using PostgreSQL
+- Spring Data JPA
+- Jar Packaging of your API
+- Unit and Integration Testing
+- Best practices ofr folder structure
+
